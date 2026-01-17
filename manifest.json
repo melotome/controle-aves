@@ -1,17 +1,44 @@
 
 {
+  "id": "agrogeral-escolar-v1",
   "short_name": "AgroGeral",
   "name": "AgroGeral Escolar",
+  "description": "Sistema de gestão de avicultura de postura para escolas agrícolas.",
+  "lang": "pt-BR",
   "icons": [
     {
       "src": "https://cdn-icons-png.flaticon.com/512/528/528098.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/528/528098.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://images.unsplash.com/photo-1518173946687-a4c8a9833d8e?auto=format&fit=crop&q=80&w=1000",
+      "sizes": "1000x1600",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "Painel de Controle AgroGeral"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1548550023-2bdb3c5beed7?auto=format&fit=crop&q=80&w=1600&h=1000",
+      "sizes": "1600x1000",
+      "type": "image/jpeg",
+      "form_factor": "wide",
+      "label": "Histórico de Produção"
     }
   ],
   "start_url": ".",
   "display": "standalone",
+  "orientation": "portrait",
   "theme_color": "#16a34a",
-  "background_color": "#f8fafc"
+  "background_color": "#f8fafc",
+  "categories": ["education", "productivity"]
 }
