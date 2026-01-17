@@ -1,0 +1,7 @@
+{
+  "name": "AgroGeral Escolar",
+  "description": "Sistema de gestão de avicultura de postura para escolas agrícolas com inteligência artificial e relatórios avançados.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
